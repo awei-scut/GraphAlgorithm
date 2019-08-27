@@ -2,7 +2,7 @@
 
 updata_time: 2019/8/9 
 
-email: weizw-scut@gmail.com
+email: weizw.scut@gmail.com
 
 school: 华南理工大学
 
